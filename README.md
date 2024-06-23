@@ -4,8 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EEC7E1&center=true&vCenter=true&random=false&width=435&lines=A+full +stack +developer+from+Egypt.;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="240">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedShaabanAl-Saidi&label=Profile%20views&color=orange&style=flat" alt="ahmedshaaban" /> </p>
 
 
