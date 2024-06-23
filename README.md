@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **ahmedshaaban123321@gmail.com**
 
-<br/>![](https://github-readme-stats.vercel.app/api?username=AhmedShaabanAl-Saidi&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 ### 🛠 &nbsp;Languages and Tools :
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -39,6 +37,7 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
+![](https://github-readme-stats.vercel.app/api?username=AhmedShaabanAl-Saidi&hide_border=false&include_all_commits=true&count_private=true)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedShaabanAl-Saidi&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
 
