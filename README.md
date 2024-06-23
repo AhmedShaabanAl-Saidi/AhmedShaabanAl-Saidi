@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **javascript**
 
-- 👯 Open to collaborate on innovative projects and open source
+- 👯 Open to collaborating on innovative projects and open-source
 
-- 💬 Ask me about **html , css , bootstrap , programming**
+- 💬 Ask me about **HTML, CSS, bootstrap, and programming**
 
 - 📫 How to reach me **ahmedshaaban123321@gmail.com**
 
