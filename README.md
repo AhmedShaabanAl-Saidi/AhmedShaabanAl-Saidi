@@ -26,7 +26,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=40px>
+###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,9 +35,11 @@
 <a href="https://wa.me/+201067671981" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="ahmedshaaban" height="30" width="40" /></a>
 </p>
 
+###
+
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
-
-![](https://github-readme-stats.vercel.app/api?username=AhmedShaabanAl-Saidi&hide_border=false&include_all_commits=true&count_private=true)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedShaabanAl-Saidi&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedShaabanAl-Saidi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedShaabanAl-Saidi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
