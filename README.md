@@ -10,8 +10,6 @@
 
 - 👯 Open to collaborating on innovative projects and open-source
 
-- 💬 Ask me about **HTML, CSS, bootstrap, and programming**
-
 - 📫 How to reach me **ahmedshaaban123321@gmail.com**
 
 ## 🛠 &nbsp;Languages and Tools :
