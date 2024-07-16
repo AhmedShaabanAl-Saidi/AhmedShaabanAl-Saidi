@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedShaabanAl-Saidi&label=Profile%20views&color=orange&style=flat" alt="ahmedshaaban" /> </p>
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m currently learning **Angular**
 
 - 👯 Open to collaborating on innovative projects and open-source
 
