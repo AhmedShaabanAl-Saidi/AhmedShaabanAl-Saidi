@@ -49,6 +49,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" height="30" alt="postman logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" height="30" alt="eclipse logo"  />
    <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
   <img width="12" />
