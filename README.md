@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F0DB4F&center=true&vCenter=true&random=false&width=435&lines=A+full +stack +developer+from+Egypt.;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 15%>
+<img align="right" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 20%>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedShaabanAl-Saidi&label=Profile%20views&color=orange&style=flat" alt="ahmedshaaban" /> </p>
 
