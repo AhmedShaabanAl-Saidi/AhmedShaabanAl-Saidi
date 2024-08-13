@@ -1,4 +1,4 @@
-<h1 align="center">Welcome To My GitHub Profile 👋 </h1>
+<h1 align="center">Welcome To My GitHub Profile 👋🌎</h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E97536&center=true&vCenter=true&random=false&width=435&lines=A+full +stack +developer+from+Egypt.;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
