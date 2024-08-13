@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedShaabanAl-Saidi&label=Profile%20views&color=orange&style=flat" alt="ahmedshaaban" /> </p>
 
-<img align="right" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 12%>
+<img align="right" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 15%>
 
 - 🌱 I’m currently learning **Angular**
 
