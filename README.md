@@ -1,8 +1,5 @@
-<div align="center">
- <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="width: 70%" alt="Welcome to my Github Profile" />
-</div>
+<div align="center"><img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="width: 70%" alt="Welcome to my Github Profile" /></div>
 
- ##
 <p align="center" >
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=39C9FE&center=true&vCenter=true&random=false&width=435&lines=A+full +stack +developer+from+Egypt.;A+Software+Engineer+!;Always+learn+new+things+!" alt="Typing SVG" /></a>
 </p>
