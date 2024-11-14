@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedShaabanAl-Saidi&label=Profile%20views&color=orange&style=flat" alt="ahmedshaaban" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **ASP.Net**
 
 - 👯 Open to collaborating on innovative projects and open-source
 
@@ -19,6 +19,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" height="30" alt="SQL Server logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -49,6 +53,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" height="30" alt="netlify logo"  />
    <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" height="30" alt="vs logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" />
