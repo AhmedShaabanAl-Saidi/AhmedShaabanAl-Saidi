@@ -40,9 +40,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="tailwindcss logo"  />
    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="30" alt="angular logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+    <img width="12" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
    <img width="12" />
