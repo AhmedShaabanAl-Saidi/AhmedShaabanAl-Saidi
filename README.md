@@ -83,7 +83,7 @@
 
 ###
    <p align="center">
-      <img src="https://streak-stats.demolab.com?user=AhmedShaabanAl-Saidi&theme=dracula&border_radius=10&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="AhmedShaabanAl-Saidi" />
+      <img src="https://streak-stats.demolab.com?user=AhmedShaabanAl-Saidi&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="AhmedShaabanAl-Saidi" />
    </p>
 </div>
 
