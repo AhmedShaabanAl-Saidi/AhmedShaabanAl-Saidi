@@ -88,6 +88,12 @@
 </div>
 
 ###
+## 🏆 GitHub Trophies
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=AhmedShaabanAl-Saidi&theme=onestar&row=1&column=7"/>
+</p>
+
+###
 ## Connect with me :
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-shaaban-alsaidi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmedshaaban" height="30" width="40" /></a>
