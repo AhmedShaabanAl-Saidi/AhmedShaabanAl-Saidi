@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=E97536&center=true&vCenter=true&width=435&lines=A+Software+Engineer+!;A+Full++Stack++Developer+From+Egypt.;Always+Learn+New+Things+!" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 20%>
+<img align="right" src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width =20%>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AhmedShaabanAl-Saidi&label=Profile%20views&color=orange&style=flat" alt="ahmedshaaban" /> </p>
 
@@ -82,15 +82,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AhmedShaabanAl-Saidi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 
 ###
-   <p align="center">
-      <img src="https://streak-stats.demolab.com?user=AhmedShaabanAl-Saidi&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="AhmedShaabanAl-Saidi" />
-   </p>
+<p align="center">
+   <img src="https://streak-stats.demolab.com?user=AhmedShaabanAl-Saidi&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="AhmedShaabanAl-Saidi" />
+</p>
 </div>
 
 ###
 ## 🏆 GitHub Trophies
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=AhmedShaabanAl-Saidi&theme=onestar&row=1&column=7"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=AhmedShaabanAl-Saidi&theme=onestar&row=1&column=7"/>
 </p>
 
 ###
