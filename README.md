@@ -83,14 +83,14 @@
 
 ###
 <p align="center">
-   <img src="https://streak-stats.demolab.com?user=AhmedShaabanAl-Saidi&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="AhmedShaabanAl-Saidi" />
+    <img src="https://streak-stats.demolab.com?user=AhmedShaabanAl-Saidi&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="AhmedShaabanAl-Saidi" />
 </p>
 </div>
 
 ###
 ## 🏆 GitHub Trophies
 <p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=AhmedShaabanAl-Saidi&theme=onestar&row=1&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=AhmedShaabanAl-Saidi&theme=onestar&row=1&column=7"/>
 </p>
 
 ###
