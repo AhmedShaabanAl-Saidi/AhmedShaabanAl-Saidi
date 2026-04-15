@@ -100,17 +100,17 @@
   <tr>
     <td>
       <a href="https://www.linkedin.com/in/ahmed-shaaban-alsaidi/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="40" height="40" />
+        <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40"/>
       </a>
     </td>
     <td>
       <a href="https://www.facebook.com/profile.php?id=61556497736958&locale=ar_AR" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" height="40" />
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" height="40"/>
       </a>
     </td>
     <td>
       <a href="https://wa.me/201067671981" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" width="40" height="40" />
+        <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" width="40" height="40"/>
       </a>
     </td>
   </tr>
